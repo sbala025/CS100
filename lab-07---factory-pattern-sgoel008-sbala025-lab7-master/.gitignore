@@ -1,0 +1,10 @@
+# Ignore executables
+calculator
+test
+# Ignore Cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lib/
+cmake-build-debug/

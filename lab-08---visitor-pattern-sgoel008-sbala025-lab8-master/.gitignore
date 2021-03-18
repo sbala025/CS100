@@ -1,0 +1,13 @@
+# Ignore Cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lib/
+cmake-build-debug/
+
+# Ignore CLion
+.idea/
+
+# Ignore executables
+test
